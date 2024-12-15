@@ -1,0 +1,100 @@
+[16:02:23] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.4+7-LTS; Microsoft Microsoft-9889606) on Linux 6.5.0-1025-azure (amd64)
+[16:02:23] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[16:02:23] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[16:02:23] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[16:02:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:02:31] [ServerMain/INFO]: Loaded 1290 recipes
+[16:02:32] [ServerMain/INFO]: Loaded 1399 advancements
+[16:02:32] [Server thread/INFO]: Starting minecraft server version 1.21
+[16:02:32] [Server thread/INFO]: Loading properties
+[16:02:32] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[16:02:33] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[16:02:33] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:02:33] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:02:34] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[16:02:34] [Server thread/INFO]: Default game type: SURVIVAL
+[16:02:34] [Server thread/INFO]: Generating keypair
+[16:02:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:02:34] [Server thread/INFO]: Using epoll channel type
+[16:02:34] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[16:02:34] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[16:02:34] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:02:34] [Server thread/INFO]: Preparing level "world"
+[16:02:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:02:38] [Server thread/INFO]: Time elapsed: 1596 ms
+[16:02:38] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:02:39] [Server thread/INFO]: Time elapsed: 627 ms
+[16:02:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:02:39] [Server thread/INFO]: Time elapsed: 197 ms
+[16:02:39] [Server thread/INFO]: [spark] Starting background profiler...
+[16:02:40] [Server thread/INFO]: Done preparing level "world" (6.221s)
+[16:02:40] [Server thread/INFO]: Running delayed init tasks
+[16:02:40] [Server thread/INFO]: Done (18.843s)! For help, type "help"
+[16:02:40] [Server thread/INFO]: Timings Reset
+[16:02:52] [User Authenticator #0/INFO]: UUID of player Thecram_ is 1a9b0ad1-957c-4765-84b4-390c6fd141e8
+[16:02:54] [Server thread/INFO]: Thecram_ joined the game
+[16:02:54] [Server thread/INFO]: Thecram_[/127.216.60.231:42279] logged in with entity id 102 at ([world]-525.1613748278108, 30.0, -727.6214945664553)
+[16:03:40] [Server thread/INFO]: Thecram_ experienced kinetic energy
+[16:08:26] [User Authenticator #1/INFO]: UUID of player Linkfoz92 is c2d5c8cd-9133-4bfc-a5d8-f357b8241b56
+[16:08:27] [Server thread/INFO]: Linkfoz92 joined the game
+[16:08:27] [Server thread/INFO]: Linkfoz92[/127.141.212.158:42457] logged in with entity id 5304 at ([world]-525.645032058672, 30.0, -729.9880860124504)
+[16:08:49] [User Authenticator #1/INFO]: UUID of player TheMagikarper is e96b3212-fa1a-47e5-a05c-493221b95522
+[16:08:50] [Server thread/INFO]: TheMagikarper joined the game
+[16:08:50] [Server thread/INFO]: TheMagikarper[/127.201.18.39:53329] logged in with entity id 6048 at ([world]-544.6188407270349, 30.0, -730.7808719078105)
+[16:12:01] [Server thread/INFO]: TheMagikarper was slain by Thecram_
+[17:16:46] [Server thread/INFO]: Thecram_ was slain by Iron Golem
+[17:39:16] [Server thread/INFO]: Thecram_ experienced kinetic energy
+[17:42:30] [Server thread/WARN]: Thecram_ moved wrongly!
+[17:42:31] [Server thread/WARN]: Thecram_ moved wrongly!
+[17:42:31] [Server thread/WARN]: Thecram_ moved wrongly!
+[18:06:00] [Server thread/INFO]: Linkfoz92 issued server command: /tp Linkfoz92 Thecram_
+[18:06:00] [Server thread/INFO]: [Linkfoz92: Teleported Linkfoz92 to Thecram_]
+[18:09:11] [Server thread/INFO]: Linkfoz92 issued server command: /gamemode spectator
+[18:09:11] [Server thread/INFO]: [Linkfoz92: Set own game mode to Spectator Mode]
+[18:09:46] [Server thread/INFO]: Linkfoz92 issued server command: /gamemode survival
+[18:09:46] [Server thread/INFO]: [Linkfoz92: Set own game mode to Survival Mode]
+[18:15:42] [Server thread/WARN]: Thecram_ moved wrongly!
+[18:18:58] [Server thread/INFO]: TheMagikarper lost connection: Disconnected
+[18:19:00] [Server thread/INFO]: TheMagikarper left the game
+[18:19:00] [User Authenticator #2/INFO]: UUID of player TheMagikarper is e96b3212-fa1a-47e5-a05c-493221b95522
+[18:19:01] [Server thread/INFO]: TheMagikarper joined the game
+[18:19:01] [Server thread/INFO]: TheMagikarper[/127.201.18.39:52797] logged in with entity id 249416 at ([world]-519.5334626659143, 28.0, -747.107154250518)
+[18:21:56] [Server thread/INFO]: TheMagikarper lost connection: Disconnected
+[18:21:56] [Server thread/INFO]: TheMagikarper left the game
+[18:26:03] [Server thread/INFO]: Linkfoz92 issued server command: /gamemode spectator
+[18:26:03] [Server thread/INFO]: [Linkfoz92: Set own game mode to Spectator Mode]
+[18:26:23] [Server thread/INFO]: Linkfoz92 issued server command: /gamemode survival
+[18:26:23] [Server thread/INFO]: [Linkfoz92: Set own game mode to Survival Mode]
+[18:39:03] [Server thread/INFO]: Thecram_ lost connection: Disconnected
+[18:39:03] [Server thread/INFO]: Thecram_ left the game
+[18:39:07] [Server thread/INFO]: Linkfoz92 lost connection: Disconnected
+[18:39:07] [Server thread/INFO]: Linkfoz92 left the game
+[18:39:13] [User Authenticator #3/INFO]: UUID of player Thecram_ is 1a9b0ad1-957c-4765-84b4-390c6fd141e8
+[18:39:14] [Server thread/INFO]: Thecram_ joined the game
+[18:39:14] [Server thread/INFO]: Thecram_[/127.216.60.231:59885] logged in with entity id 310718 at ([world]-499.68224039587346, 30.121296840539188, -727.792278309517)
+[18:39:18] [Server thread/INFO]: Thecram_ issued server command: /stop
+[18:39:18] [Server thread/INFO]: [Thecram_: Stopping the server]
+[18:39:18] [Server thread/INFO]: Stopping server
+[18:39:18] [Server thread/INFO]: Saving players
+[18:39:18] [Server thread/INFO]: Thecram_ lost connection: Server closed
+[18:39:18] [Server thread/INFO]: Thecram_ left the game
+[18:39:18] [Server thread/INFO]: Saving worlds
+[18:39:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:39:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[18:39:19] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[18:39:19] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[18:39:19] [Server thread/INFO]: [ChunkHolderManager] Saved 184 block chunks, 449 entity chunks, 1 poi chunks in world 'world' in 0.40s
+[18:39:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[18:39:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[18:39:19] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[18:39:19] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[18:39:19] [Server thread/INFO]: [ChunkHolderManager] Saved 66 block chunks, 174 entity chunks, 0 poi chunks in world 'world_nether' in 0.18s
+[18:39:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[18:39:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[18:39:19] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[18:39:19] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[18:39:19] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 12 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
+[18:39:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:39:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:39:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:39:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
